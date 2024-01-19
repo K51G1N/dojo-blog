@@ -14,7 +14,6 @@ function App() {
         <Navbar/>
         <div className="content">
          <Home />
-          <p>Keagan is Learning</p>  
         </div>
     </div>
   );
